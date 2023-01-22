@@ -1,3 +1,3 @@
 # Converting JavaScript Counter to Vue Counter
 
-This is just a simpole conversion to see how much cleaner Vue is.
+This is just a simple conversion to see how much cleaner Vue is.
